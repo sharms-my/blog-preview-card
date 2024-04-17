@@ -10,11 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -27,13 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](https://github.com/sharms-my/blog-preview-card/blob/master/screenshots/blog-preview-card-desktop.png)
+![mobile](https://github.com/sharms-my/blog-preview-card/blob/master/screenshots/blog-preview-card-mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-sharmsmy.vercel.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-pure-css-h17IzuInO2)
+- [Live Site URL](https://blog-preview-card-sharmsmy.vercel.app/)
 
 ## My process
 
